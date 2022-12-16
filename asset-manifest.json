@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addapricope/React-Quiz.git/static/css/main.88575442.css",
+    "main.js": "/addapricope/React-Quiz.git/static/js/main.f8c9d013.js",
+    "index.html": "/addapricope/React-Quiz.git/index.html",
+    "main.88575442.css.map": "/addapricope/React-Quiz.git/static/css/main.88575442.css.map",
+    "main.f8c9d013.js.map": "/addapricope/React-Quiz.git/static/js/main.f8c9d013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88575442.css",
+    "static/js/main.f8c9d013.js"
+  ]
+}
